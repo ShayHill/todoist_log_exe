@@ -33,7 +33,7 @@ The script will write a file to the same location as the executable. The file wi
 * task content
 * any notes you made on the task
 
-You can open this is a text editor or in Excel as a spreadsheet. This file is the only thing the program will change. It will read your Todoist database but will not make changes.
+You can open this in a text editor or in Excel as a spreadsheet. This file is the only thing the program will change. It will read your Todoist database but will not make changes.
 
 ## Limitations
 
